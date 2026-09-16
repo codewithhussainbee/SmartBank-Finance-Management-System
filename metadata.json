@@ -1,0 +1,6 @@
+{
+  "name": "Banking & Personal Finance Management System",
+  "description": "A full-stack educational digital banking simulation and personal finance platform with anomaly detection and administrative governance. Developed by Hussain Bee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
